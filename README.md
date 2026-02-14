@@ -28,15 +28,15 @@ Smart Multi Duplicate is a WordPress plugin that allows administrators to duplic
 
 ## 📂 Folder Structure
 
-smart-multi-duplicate/
-│
-├── smart-multi-duplicate.php
-├── includes/
-│ ├── class-settings.php
-│ ├── class-admin-actions.php
-│ └── class-duplicate-handler.php
-├── README.md
-└── .gitignore
+smart-multi-duplicate/<br>
+│<br>
+├── smart-multi-duplicate.php<br>
+├── includes/<br>
+│ ├── class-settings.php<br>
+│ ├── class-admin-actions.php<br>
+│ └── class-duplicate-handler.php<br>
+├── README.md<br>
+└── .gitignore<br>
 
 
 ---
